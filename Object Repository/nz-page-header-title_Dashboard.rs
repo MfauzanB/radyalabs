@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nz-page-header-title_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>e3b879f4-5c26-47ca-b42f-8d93ee8d0640</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nz-page-header-title.ant-page-header-heading-title.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nz-page-header-title</value>
+      <webElementGuid>70e43663-f41c-4c84-bda9-8750d3962f40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-page-header-heading-title ng-star-inserted</value>
+      <webElementGuid>6b1377d1-5380-4449-b240-bdd176899117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>1d98fcf6-447f-45c9-b336-83f2c05121e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-base[@class=&quot;ng-star-inserted&quot;]/nz-layout[@class=&quot;app-layout ant-layout-has-sider ant-layout&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-home[@class=&quot;ng-star-inserted&quot;]/nz-page-header[@class=&quot;ant-page-header ant-page-header-ghost ant-page-header-compact&quot;]/div[@class=&quot;ant-page-header-heading&quot;]/div[@class=&quot;ant-page-header-heading-left&quot;]/nz-page-header-title[@class=&quot;ant-page-header-heading-title ng-star-inserted&quot;]</value>
+      <webElementGuid>12feeb19-f68e-48da-bac2-b5dc216ae658</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Aplikasi'])[1]/following::nz-page-header-title[1]</value>
+      <webElementGuid>202804a7-ff48-4a32-8d1f-1286b1f14d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Role'])[1]/following::nz-page-header-title[1]</value>
+      <webElementGuid>cc8669a8-3a3c-4de0-86e9-952be80b3c83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logistic Operation Portal'])[1]/preceding::nz-page-header-title[1]</value>
+      <webElementGuid>d8a5003d-a544-4e32-a2ae-a405ea56aea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cabang'])[1]/preceding::nz-page-header-title[1]</value>
+      <webElementGuid>d6331d2a-bc8c-47c9-bc42-a3f44e059de2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nz-page-header-title</value>
+      <webElementGuid>4a6ecd4e-8aa8-4bed-bc46-b25bdc05dad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nz-page-header-title[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>6ece8706-9159-4f4c-9221-02400dd7d575</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

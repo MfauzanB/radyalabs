@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_LOGISTIC OPERATION PORTAL_ant-input n_bd3f7e</name>
+   <tag></tag>
+   <elementGuidId>9042c5fc-4b29-44ae-9cea-f92cb95c5350</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nz-input-group.ng-tns-c126-1.ant-input-affix-wrapper.cdk-focused.cdk-mouse-focused.ant-input-affix-wrapper-focused > input.ant-input.ng-star-inserted.ng-dirty.ng-valid.ng-touched</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>812fd3df-1cb2-4a33-8f0b-e44818d96f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>05f2b849-3a87-48b4-b1bb-90f1e5c81ba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Kata Sandi</value>
+      <webElementGuid>51a81003-aa2b-4bfa-a493-2180b874ba4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-star-inserted ng-dirty ng-valid ng-touched</value>
+      <webElementGuid>08ddf3bc-394c-41f3-9697-f6e267ee2290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>050b88a8-7b49-4aa5-afc8-bbc31d38848d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form&quot;)/nz-form-item[@class=&quot;form-group ant-form-item ant-row ant-form-item-has-success&quot;]/nz-form-control[@id=&quot;form_control_login no-padding&quot;]/div[@class=&quot;ant-form-item-control-input ng-tns-c126-1&quot;]/div[@class=&quot;ant-form-item-control-input-content ng-tns-c126-1&quot;]/nz-input-group[@class=&quot;ng-tns-c126-1 ant-input-affix-wrapper cdk-focused cdk-mouse-focused ant-input-affix-wrapper-focused&quot;]/input[@class=&quot;ant-input ng-star-inserted ng-dirty ng-valid ng-touched&quot;]</value>
+      <webElementGuid>23f22eaf-39e1-4b79-9806-5a2fe0f61d4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>b9ca357f-f784-45c4-8001-59373f46ba39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//nz-form-control[@id='form_control_login no-padding']/div/div/nz-input-group/input)[2]</value>
+      <webElementGuid>fd684c7e-4924-453e-940e-0c5899aaa99a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nz-form-item[2]/nz-form-control/div/div/nz-input-group/input</value>
+      <webElementGuid>2b68af9e-24b9-4171-920d-f87a6a863973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Kata Sandi' and @type = 'text']</value>
+      <webElementGuid>633819c9-f2d1-4a3f-9c00-bc2161381ae5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

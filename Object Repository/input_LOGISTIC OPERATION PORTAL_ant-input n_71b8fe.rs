@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_LOGISTIC OPERATION PORTAL_ant-input n_71b8fe</name>
+   <tag></tag>
+   <elementGuidId>561cd196-f55f-4230-b514-db81cb91b41c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='password']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nz-input-group.ng-tns-c126-1.ant-input-affix-wrapper.cdk-focused.cdk-keyboard-focused.ant-input-affix-wrapper-focused > input.ant-input.ng-star-inserted.ng-touched.ng-dirty.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>eb86e824-e54c-4116-9ca1-70f79ba38d1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>59059d0e-acbf-4fb5-8290-fdfad74fe37f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Kata Sandi</value>
+      <webElementGuid>727ca84e-ead7-4e8c-a05b-9e2682e04cf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-star-inserted ng-touched ng-dirty ng-valid</value>
+      <webElementGuid>f797803e-6e3f-4589-9e9c-e96c33146ad5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>02023165-1dd4-47c6-9222-ee890c15f821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form&quot;)/nz-form-item[@class=&quot;form-group ant-form-item ant-row ant-form-item-has-success&quot;]/nz-form-control[@id=&quot;form_control_login no-padding&quot;]/div[@class=&quot;ant-form-item-control-input ng-tns-c126-1&quot;]/div[@class=&quot;ant-form-item-control-input-content ng-tns-c126-1&quot;]/nz-input-group[@class=&quot;ng-tns-c126-1 ant-input-affix-wrapper cdk-focused cdk-keyboard-focused ant-input-affix-wrapper-focused&quot;]/input[@class=&quot;ant-input ng-star-inserted ng-touched ng-dirty ng-valid&quot;]</value>
+      <webElementGuid>d8b7b0e9-2344-4af3-a113-7991cf332e0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>72f48831-ed14-47da-99dc-64f27b2378d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>a2c15ae6-4ee0-4220-8f12-c213a6d43c64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Kata Sandi</value>
+      <webElementGuid>e8d2b2e7-087d-4065-99d6-d20e2864307b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-star-inserted ng-touched ng-dirty ng-valid</value>
+      <webElementGuid>e0fd7f65-098c-411d-bcc1-a48162ea1770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>5596a78a-2dfe-4c59-bc8c-a1279125a619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form&quot;)/nz-form-item[@class=&quot;form-group ant-form-item ant-row ant-form-item-has-success&quot;]/nz-form-control[@id=&quot;form_control_login no-padding&quot;]/div[@class=&quot;ant-form-item-control-input ng-tns-c126-1&quot;]/div[@class=&quot;ant-form-item-control-input-content ng-tns-c126-1&quot;]/nz-input-group[@class=&quot;ng-tns-c126-1 ant-input-affix-wrapper cdk-focused cdk-mouse-focused ant-input-affix-wrapper-focused&quot;]/input[@class=&quot;ant-input ng-star-inserted ng-touched ng-dirty ng-valid&quot;]</value>
+      <webElementGuid>a7ace1e6-2075-41b3-9c21-2d3114c6bdd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='password']</value>
+      <webElementGuid>bc7669cb-dd2a-41b2-8c10-2a0ab2ba3751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//nz-form-control[@id='form_control_login no-padding']/div/div/nz-input-group/input)[2]</value>
+      <webElementGuid>7f396e07-4380-4612-9f1d-bdbe16996914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nz-form-item[2]/nz-form-control/div/div/nz-input-group/input</value>
+      <webElementGuid>77f0731a-bbef-46b5-b839-a6271f42c1d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Kata Sandi' and @type = 'password']</value>
+      <webElementGuid>24aa3f91-59af-44d6-83eb-85f9b0b59e70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

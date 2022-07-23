@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Anda tidak dapat login</name>
+   <tag></tag>
+   <elementGuidId>faa63e2d-4996-4bf7-ba5c-ba11723ce497</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-0']/nz-message-container/div/nz-message/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-tns-c147-2.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>91f6a4a9-95b3-4a61-9709-d08677118898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c147-2 ng-star-inserted</value>
+      <webElementGuid>c90484cf-fe8f-4d8c-8719-3a2be0ce12b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anda tidak dapat login.</value>
+      <webElementGuid>694b9b89-29f6-4d03-87b6-3ef863f3e4cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/nz-message-container[1]/div[@class=&quot;ant-message&quot;]/nz-message[@class=&quot;ng-tns-c147-2 ng-star-inserted&quot;]/div[@class=&quot;ant-message-notice ng-tns-c147-2 ng-trigger ng-trigger-moveUpMotion&quot;]/div[@class=&quot;ant-message-notice-content ng-tns-c147-2&quot;]/div[@class=&quot;ant-message-custom-content ng-tns-c147-2 ant-message-error&quot;]/span[@class=&quot;ng-tns-c147-2 ng-star-inserted&quot;]</value>
+      <webElementGuid>a8c4835c-cfc4-472b-af38-c7bc4c57d4dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f1b96bc9-812c-4b46-ad52-e29daa55b9d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c147-2 ng-star-inserted</value>
+      <webElementGuid>8849dc27-5ad9-4735-83a5-4824de97c012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anda tidak dapat login.</value>
+      <webElementGuid>124dbbe7-01c6-408e-b079-67bff00f0989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/nz-message-container[1]/div[@class=&quot;ant-message&quot;]/nz-message[@class=&quot;ng-tns-c147-2 ng-star-inserted&quot;]/div[@class=&quot;ant-message-notice ng-tns-c147-2 ng-trigger ng-trigger-moveUpMotion&quot;]/div[@class=&quot;ant-message-notice-content ng-tns-c147-2&quot;]/div[@class=&quot;ant-message-custom-content ng-tns-c147-2 ant-message-error&quot;]/span[@class=&quot;ng-tns-c147-2 ng-star-inserted&quot;]</value>
+      <webElementGuid>1da9dad9-9ce4-4575-a6e0-f3aaa78cdf65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/nz-message-container/div/nz-message/div/div/div/span</value>
+      <webElementGuid>c3223e85-09af-47fd-91b1-7a638ea87b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi'])[1]/following::span[1]</value>
+      <webElementGuid>6945b4f1-6ab7-4131-95ee-7c12fb63b2a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MASUK'])[1]/following::span[1]</value>
+      <webElementGuid>e767eb66-55ee-4ffc-ad34-003f38dbcbf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Anda tidak dapat login.']/parent::*</value>
+      <webElementGuid>69fbf641-6ee1-41f0-986d-23868ea2ede9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/span</value>
+      <webElementGuid>dda8fe7e-4dbd-431b-990c-5d8736d149df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Anda tidak dapat login.' or . = 'Anda tidak dapat login.')]</value>
+      <webElementGuid>5270be66-0678-4cb5-a614-060e67a6da44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

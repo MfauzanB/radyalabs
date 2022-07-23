@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_LOGISTIC OPERATION PORTAL_ant-input n_68e852</name>
+   <tag></tag>
+   <elementGuidId>51b281b1-0b1d-4985-af8c-6e260871a764</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='password']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.ant-input.ng-untouched.ng-invalid.ng-star-inserted.ng-dirty</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e2bc3ecf-8207-47a1-bca2-949854050a3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>eb266650-1217-444e-8c42-7bbf35d38141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Kata Sandi</value>
+      <webElementGuid>0af744be-0fb9-4bfd-9465-ee62e6894121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-untouched ng-invalid ng-star-inserted ng-dirty</value>
+      <webElementGuid>59e6d4b3-f4c6-4744-a778-9fd23b394dba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>18d867aa-fa68-4607-bb40-9057d2bfc658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form&quot;)/nz-form-item[@class=&quot;form-group ant-form-item ant-row ant-form-item-has-error ant-form-item-with-help&quot;]/nz-form-control[@id=&quot;form_control_login no-padding&quot;]/div[@class=&quot;ant-form-item-control-input ng-tns-c126-1&quot;]/div[@class=&quot;ant-form-item-control-input-content ng-tns-c126-1&quot;]/nz-input-group[@class=&quot;ng-tns-c126-1 ant-input-affix-wrapper cdk-focused cdk-keyboard-focused ant-input-affix-wrapper-focused&quot;]/input[@class=&quot;ant-input ng-untouched ng-invalid ng-star-inserted ng-dirty&quot;]</value>
+      <webElementGuid>cfc598f5-d3b4-4edd-bb1b-ab77f89924af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='password']</value>
+      <webElementGuid>7175551e-216b-4edf-90f1-3845c2fb700f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//nz-form-control[@id='form_control_login no-padding']/div/div/nz-input-group/input)[2]</value>
+      <webElementGuid>81daa5bb-1d6a-4773-81de-b338a27cfcdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nz-form-item[2]/nz-form-control/div/div/nz-input-group/input</value>
+      <webElementGuid>6a79f1a0-d36a-4294-ac90-5bd93d65fe8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Kata Sandi' and @type = 'password']</value>
+      <webElementGuid>978264a7-b028-47d9-9900-9d046bcb56ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

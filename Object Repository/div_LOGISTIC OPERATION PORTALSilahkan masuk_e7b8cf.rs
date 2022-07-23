@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LOGISTIC OPERATION PORTALSilahkan masuk_e7b8cf</name>
+   <tag></tag>
+   <elementGuidId>bbd19f5d-4d5a-46b8-b0e4-99f79876c64d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_login']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.kt-login__body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>867d91a7-37b3-4cbe-a137-984412fbfec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-login__body</value>
+      <webElementGuid>da65c70c-cb5b-46af-9d0a-155a8866152a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LOGISTIC OPERATION PORTALSilahkan masuk menggunakan akun Anda.MASUKLupa Kata Sandi</value>
+      <webElementGuid>4c4706c5-fdb1-4d13-a17b-d3d56d3600cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_login&quot;)/div[@class=&quot;kt-grid__item kt-grid__item--fluid kt-grid kt-grid--desktop kt-grid--ver-desktop kt-grid--hor-tablet-and-mobile&quot;]/div[@class=&quot;kt-grid__item kt-grid__item--order-tablet-and-mobile-2 kt-login__aside&quot;]/div[@class=&quot;kt-grid__item kt-grid__item--fluid kt-grid__item--order-tablet-and-mobile-1 kt-login__wrapper&quot;]/div[@class=&quot;kt-login__body&quot;]</value>
+      <webElementGuid>99f9f818-924c-4ea0-a42b-264dfb2db6e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_login']/div/div/div/div</value>
+      <webElementGuid>25149a40-2166-468b-b459-da10b01e1e5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div</value>
+      <webElementGuid>2289d4bc-a48e-4be4-8a3d-a9b5c83cbd34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LOGISTIC OPERATION PORTALSilahkan masuk menggunakan akun Anda.MASUKLupa Kata Sandi' or . = 'LOGISTIC OPERATION PORTALSilahkan masuk menggunakan akun Anda.MASUKLupa Kata Sandi')]</value>
+      <webElementGuid>711d8228-59cf-4a8a-bfd4-17242b622099</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
