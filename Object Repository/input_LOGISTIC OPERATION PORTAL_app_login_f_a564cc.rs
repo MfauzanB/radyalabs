@@ -6,12 +6,12 @@
    <elementGuidId>191faad9-f1f0-448a-9d81-7da5aaf52e8b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='app_login_form_username']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#app_login_form_username</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='app_login_form_username']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fca3b0b0-fc1a-4990-b6d0-04f562768689</webElementGuid>
+      <webElementGuid>3464637e-4fcc-498c-9682-864240bf8a40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,458 @@
       <name>id</name>
       <type>Main</type>
       <value>app_login_form_username</value>
-      <webElementGuid>f8f82e8d-51fc-46eb-a94f-c1277806b712</webElementGuid>
+      <webElementGuid>0b97302d-d1d5-465e-9c01-ecc864efbe8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>95c32dae-51b9-4935-9cc2-06c8075dba68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>293309ec-e0ec-4553-b9cd-c33a58a175be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>949a99f4-47eb-4ff6-b5b3-0260f5a9f8ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-untouched ng-pristine ng-invalid ng-star-inserted</value>
+      <webElementGuid>be7752b8-f30a-4b65-abeb-8bb37a214e97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form_username&quot;)</value>
+      <webElementGuid>aae40c9e-d0d4-4698-8475-36b63cf8daf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6a9b2c79-88e9-4e53-aa42-7dbde40c6c58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_login_form_username</value>
+      <webElementGuid>d9c89e96-17f3-45a0-ab55-9c9db2910cc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>d1df7ef9-f8e6-4750-b4b5-78dd8836dca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>a0101972-7ea0-4e04-94fc-b3a589b14b50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>9209d2f7-ba39-4af9-9248-05cbc57dbaeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-untouched ng-pristine ng-invalid ng-star-inserted</value>
+      <webElementGuid>da058b85-b83b-4c68-868d-bfa8df85bc36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form_username&quot;)</value>
+      <webElementGuid>f73596a6-103e-4fa8-83b0-fd878ec32139</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6eb00b84-0d47-4f1e-8c05-8aa55d05ffbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_login_form_username</value>
+      <webElementGuid>8307a010-891d-40e2-ad5a-72f2bb9770dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>77917557-9eb5-49af-9215-6cdec78f4abd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>d0c31a43-61a4-4986-a09b-38b71f20673b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>0ff32f4f-d1dd-4323-b99c-a663149ea03f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-untouched ng-pristine ng-invalid ng-star-inserted</value>
+      <webElementGuid>b319419a-59e7-497b-8537-faf680e52a49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form_username&quot;)</value>
+      <webElementGuid>81b0e438-7319-4e8d-97d1-e19ab8a3f646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2dd5791c-88fc-4df6-896a-0c7a5342be31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_login_form_username</value>
+      <webElementGuid>d53e7910-7f67-49da-b536-bf61d8aec066</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>02ca9de6-27f3-459d-938e-31c7f241caeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>6f61c283-7a9c-4f7e-949f-0e8f335207f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>dcef4764-e772-418b-b383-d249e77069e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-untouched ng-pristine ng-invalid ng-star-inserted</value>
+      <webElementGuid>18b6ca37-08a8-4cc5-bf47-c79286f42683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form_username&quot;)</value>
+      <webElementGuid>4abbc05e-f203-4386-b160-322632884ea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2d944292-c600-4551-b194-72b67993b5c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_login_form_username</value>
+      <webElementGuid>1439d21d-a7c0-4318-a07a-20309d3d8256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e3c66c3c-3173-4367-ba68-3f9729b16505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>e2f48ff7-8d6a-445c-a39c-88d647eb9b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>a6052c15-2be2-451a-9fa8-e79c35f0b962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-untouched ng-pristine ng-invalid ng-star-inserted</value>
+      <webElementGuid>481e4585-cd82-4d12-9a97-48eb226fc837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form_username&quot;)</value>
+      <webElementGuid>8169ec98-1dae-45f9-a9ed-cdae058b4d4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f7ab0a69-7bd3-4240-b72a-c5dffa2a4814</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_login_form_username</value>
+      <webElementGuid>e4e52472-6078-41aa-ba07-fbe9b1cbc2bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1327e84b-7286-48ff-bd1a-1988f61df2c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>cc79939c-610a-4b79-987b-8f4f12685e7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>8040118c-9271-4e6a-a75b-33f665db5302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-untouched ng-pristine ng-invalid ng-star-inserted</value>
+      <webElementGuid>a7a88f89-1400-48dd-a067-3acdd5c22d87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form_username&quot;)</value>
+      <webElementGuid>d0ed35b6-4d55-457b-a948-cd946f6c1417</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bb8056a5-0400-454c-9c30-eba380239c8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_login_form_username</value>
+      <webElementGuid>a94f4923-6d35-4e2c-958b-dfda517f6402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>4fd81df4-6305-409a-99f3-a94beb780f74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>8120bb93-c965-47c7-9608-0dfc34884873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>ed7406bf-38db-4c66-9b8a-235801eb89fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-untouched ng-pristine ng-invalid ng-star-inserted</value>
+      <webElementGuid>33264e6f-45b6-4e79-9819-2d23a54672b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form_username&quot;)</value>
+      <webElementGuid>a8f6c4af-22c8-4e08-bc14-fdec1cb776f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>51fa348e-944b-4312-84e8-200548d38e98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_login_form_username</value>
+      <webElementGuid>22b5262e-d5b3-4978-aa49-27a545ffeb90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a001ad59-b15d-446d-a2ff-92176db9c550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>8f51e4aa-cf92-44b5-9712-618252d812d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>e64b99a6-fd0b-4011-9c2d-a306082117f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-untouched ng-pristine ng-invalid ng-star-inserted</value>
+      <webElementGuid>6b4550ef-cfb5-46af-9c29-09157491925d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form_username&quot;)</value>
+      <webElementGuid>55e0e5b6-d3d7-452a-aeec-68c8568d1978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fca3b0b0-fc1a-4990-b6d0-04f562768689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_login_form_username</value>
+      <webElementGuid>f8f82e8d-51fc-46eb-a94f-c1277806b712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -49,7 +497,7 @@
       <webElementGuid>d61f131f-d7df-445b-aadb-da0bc8cbad99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -358,7 +806,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='app_login_form_username']</value>
-      <webElementGuid>a5020407-8571-4401-a64a-223f77a02436</webElementGuid>
+      <webElementGuid>ba78c273-ed46-414d-bf94-5db8073e3279</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -366,7 +814,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//nz-form-control[@id='form_control_login no-padding']/div/div/nz-input-group/input</value>
-      <webElementGuid>4522b809-de10-4fbd-85ea-c6fcb66c05c5</webElementGuid>
+      <webElementGuid>7b3a1e8f-2c86-49e0-a1a6-fd45319d9aff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -374,7 +822,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>2391966f-2a85-46d6-a998-1b7c6d5a1295</webElementGuid>
+      <webElementGuid>237312b2-98cf-408f-b1b5-cfd94420dee5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -382,6 +830,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'app_login_form_username' and @type = 'text' and @placeholder = 'Username']</value>
-      <webElementGuid>42ac81f1-d9e8-459a-a58c-f82dfe2434af</webElementGuid>
+      <webElementGuid>18141082-6f66-47e9-b5cd-a9d9cd484f94</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>91f56a3a-54df-4e27-95ec-fb0e64fa204a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='app_login_form_btn_signin']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#app_login_form_btn_signin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='app_login_form_btn_signin']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>717a06f0-0715-4b1c-b21d-c41b3e75d0c9</webElementGuid>
+      <webElementGuid>0b3b96f2-64a5-4a3b-88f6-103cfcd1cecb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,298 @@
       <name>id</name>
       <type>Main</type>
       <value>app_login_form_btn_signin</value>
-      <webElementGuid>359d91e2-03fc-4987-9ff8-2a1a93477705</webElementGuid>
+      <webElementGuid>8d1fd793-55ce-4701-963b-f36237446453</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>7c946061-ca3d-4a15-8c9f-beddbfddad95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-wide kt-login__btn-primary</value>
+      <webElementGuid>99fb8c15-e7cd-487b-b782-e3558b9a8b0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MASUK</value>
+      <webElementGuid>173f2ba2-00a4-4c2e-8421-8fa92865cb4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form_btn_signin&quot;)</value>
+      <webElementGuid>5f88bde4-9d1f-40df-ab7f-73a8bc6fc7e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f0fa411b-22de-4b6b-9c4e-b58b055c7681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_login_form_btn_signin</value>
+      <webElementGuid>7bacc72d-ff65-407f-b173-49aa3ea89754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>c9878bbd-d34a-4482-a3ff-c22caec49e5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-wide kt-login__btn-primary</value>
+      <webElementGuid>c4d18623-a35e-47f2-b7a4-48c945142bf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MASUK</value>
+      <webElementGuid>3ce7c8bb-5fd6-487a-b530-78b5695430b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form_btn_signin&quot;)</value>
+      <webElementGuid>6b752325-20fe-4768-bee5-a40818eeb308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5dd1b48c-ffd6-4084-8b89-90ca4dfbabd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_login_form_btn_signin</value>
+      <webElementGuid>81a26f3d-65c1-44df-bf13-0cc47fb3a102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>c87ee226-c0f2-44d7-a5db-c5499f1ec5de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-wide kt-login__btn-primary</value>
+      <webElementGuid>98831465-8e17-42e4-b504-7b6ce6ec885d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MASUK</value>
+      <webElementGuid>a8eab13e-d3b0-44f1-9a37-be13cc3b244a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form_btn_signin&quot;)</value>
+      <webElementGuid>6d8faa6f-1c21-455c-9a67-85b8a45c7fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9492c905-c21b-47ce-b87b-b912ff588631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_login_form_btn_signin</value>
+      <webElementGuid>a813655a-9b54-4f49-b124-8d15aaf57fbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>c2a2d107-a40b-40e9-a695-c3e8456a7274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-wide kt-login__btn-primary</value>
+      <webElementGuid>503b6b72-5ff8-4fd6-8a88-85f6acaddc8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MASUK</value>
+      <webElementGuid>bf4906a9-c78a-4103-8aa6-d3f56a00d20f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form_btn_signin&quot;)</value>
+      <webElementGuid>5a1f05a6-5e34-4d9e-83fd-18cefb33b07e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>894b93de-c417-4d0c-aa11-13e7bdf2937e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_login_form_btn_signin</value>
+      <webElementGuid>24456b80-d3ea-4096-8672-d84e1305ba07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>150d15a4-f1ae-4564-9c17-c1e43745870c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-wide kt-login__btn-primary</value>
+      <webElementGuid>3cb50acb-de69-42da-81c2-4e9989e975f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MASUK</value>
+      <webElementGuid>623ba483-3c0b-4eca-b0e2-bf366aa803d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form_btn_signin&quot;)</value>
+      <webElementGuid>c7b5394e-6338-4d95-8262-79c1746b8f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5ba64fad-1e8b-4833-bd27-2e4de5a6ea23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_login_form_btn_signin</value>
+      <webElementGuid>004c4300-e280-4284-bca9-504d1a326aa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>02b3702a-a32e-48f1-961a-1c993471f47d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-wide kt-login__btn-primary</value>
+      <webElementGuid>90b13eba-e500-4463-8382-922ab39d37ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MASUK</value>
+      <webElementGuid>700d4e42-1ef4-4ac8-a31f-585b0badb1c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_login_form_btn_signin&quot;)</value>
+      <webElementGuid>75cf1e05-07e2-4f88-aad2-59d9ca394f55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>717a06f0-0715-4b1c-b21d-c41b3e75d0c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_login_form_btn_signin</value>
+      <webElementGuid>359d91e2-03fc-4987-9ff8-2a1a93477705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -49,7 +337,7 @@
       <webElementGuid>9eff2a4f-18d9-40d2-bc41-a2f1fb772b6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -310,7 +598,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='app_login_form_btn_signin']</value>
-      <webElementGuid>1c9b3cf3-d105-4073-8e42-f0c01cd920c2</webElementGuid>
+      <webElementGuid>37049ce0-254b-4b1e-b049-8f407eecfd86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -318,7 +606,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='app_login_form']/nz-form-item[3]/button</value>
-      <webElementGuid>0cedbc22-27b9-4353-b341-c09a64a562e6</webElementGuid>
+      <webElementGuid>482dabd1-f6da-48c1-be76-3a08d450116f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -326,7 +614,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGISTIC OPERATION PORTAL'])[1]/following::button[1]</value>
-      <webElementGuid>992b0ca7-d36e-4752-8de6-b9d6ef31ef75</webElementGuid>
+      <webElementGuid>886542f8-badc-433c-b9ee-234bc9d27c89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -334,7 +622,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi'])[1]/preceding::button[1]</value>
-      <webElementGuid>009c3628-1630-42cd-9139-aac74e385fc2</webElementGuid>
+      <webElementGuid>e0473ea8-9ebd-4823-a6a2-808303e2d20b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -342,7 +630,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'app_login_form_btn_signin', '&quot;', ')')])[1]/preceding::button[1]</value>
-      <webElementGuid>74aaf757-25d9-4f3c-9e51-5aaf244e5374</webElementGuid>
+      <webElementGuid>59ef8a41-fb84-4958-a77a-c232de73fe73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -350,7 +638,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='MASUK']/parent::*</value>
-      <webElementGuid>457d4198-1287-44e5-9f90-4cd0643cd277</webElementGuid>
+      <webElementGuid>41f6b683-cb93-4140-b4c2-39b69eb486c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -358,7 +646,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>eecc50d0-6ad8-4a21-a5ea-63f0fb7c452b</webElementGuid>
+      <webElementGuid>6e517178-a389-4f9f-b637-66e7888fc2b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -366,6 +654,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'app_login_form_btn_signin' and @type = 'submit' and (text() = 'MASUK' or . = 'MASUK')]</value>
-      <webElementGuid>1f0f7c8f-f4c1-4f5a-82a4-c7955b26705a</webElementGuid>
+      <webElementGuid>d9f2b654-45fc-48b0-89b5-0202fa0c9468</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

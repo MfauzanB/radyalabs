@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Data cabang berhasil di hapus</name>
+   <tag></tag>
+   <elementGuidId>dba35d31-f3a7-456b-afc5-97215dc77305</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-tns-c147-42.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-4']/nz-message-container/div/nz-message/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>64ef98a5-d999-49e9-ba7f-526f44412ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c147-42 ng-star-inserted</value>
+      <webElementGuid>25af7af9-2cb8-4a7c-8ed8-f1cf71293fc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data cabang berhasil di hapus</value>
+      <webElementGuid>b688f54c-a1d1-4666-9ad6-47c122b31e9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-4&quot;)/nz-message-container[1]/div[@class=&quot;ant-message&quot;]/nz-message[@class=&quot;ng-tns-c147-42 ng-star-inserted&quot;]/div[@class=&quot;ant-message-notice ng-tns-c147-42 ng-trigger ng-trigger-moveUpMotion&quot;]/div[@class=&quot;ant-message-notice-content ng-tns-c147-42&quot;]/div[@class=&quot;ant-message-custom-content ng-tns-c147-42 ant-message-success&quot;]/span[@class=&quot;ng-tns-c147-42 ng-star-inserted&quot;]</value>
+      <webElementGuid>1a6f49c5-563a-47a0-ac47-07dfef068a3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-4']/nz-message-container/div/nz-message/div/div/div/span</value>
+      <webElementGuid>5257bfac-e09e-44ff-9f4b-f51c58dbb715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Role'])[2]/following::span[1]</value>
+      <webElementGuid>41f75a08-61c8-4fd3-a364-1c60946dab64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selisih Penerimaan Barang'])[4]/following::span[1]</value>
+      <webElementGuid>ec0d7c92-4188-46a6-8b32-4c4e829b9c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Data cabang berhasil di hapus']/parent::*</value>
+      <webElementGuid>7c2e6ef5-9a36-4a75-8b8b-c3a1edb1e247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/span</value>
+      <webElementGuid>b99acfca-a9a7-4ef6-95a6-a39ed06982a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Data cabang berhasil di hapus' or . = 'Data cabang berhasil di hapus')]</value>
+      <webElementGuid>50f4386e-aa52-4508-81c6-13687ad620f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Email Penanggung Jawab_ant-input ng-t_7f7d35</name>
+   <tag></tag>
+   <elementGuidId>49cb8f45-e645-4442-abf9-742dac9e9e63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.ant-input.ng-tns-c126-46.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-2']/nz-modal-container/div/div/div[2]/form/div/div[4]/nz-form-item/nz-form-control/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c894423c-09fc-481c-ae5c-49e02385ae0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>emailPenanggungJawab</value>
+      <webElementGuid>acedbe7d-a2a0-4c7e-80e9-6838b4eb915b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan alamat email penanggung jawab</value>
+      <webElementGuid>59188c74-caf5-4f64-9790-01b455cd83bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-tns-c126-46 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>d84d706a-1ad4-4f98-bc52-0ee946fd2271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-2&quot;)/nz-modal-container[@class=&quot;ng-tns-c150-42 ng-trigger ng-trigger-modalContainer ant-modal-wrap ng-star-inserted&quot;]/div[@class=&quot;ant-modal ng-tns-c150-42&quot;]/div[@class=&quot;ant-modal-content ng-tns-c150-42&quot;]/div[@class=&quot;ant-modal-body ng-tns-c150-42&quot;]/form[@class=&quot;ant-form ng-valid ant-form-vertical ng-star-inserted ng-dirty ng-touched&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/nz-form-item[@class=&quot;ant-form-item ant-row&quot;]/nz-form-control[@class=&quot;ng-tns-c126-46 ant-form-item-control ant-col ng-star-inserted&quot;]/div[@class=&quot;ant-form-item-control-input ng-tns-c126-46&quot;]/div[@class=&quot;ant-form-item-control-input-content ng-tns-c126-46&quot;]/input[@class=&quot;ant-input ng-tns-c126-46 ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>4d9c1e19-e0f0-46c9-9a6b-5ff08b5ba303</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5d865d30-8195-4532-a201-31a334d29bdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>emailPenanggungJawab</value>
+      <webElementGuid>5bbcb29a-1dc5-4f00-9f30-5023a915ae22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan alamat email penanggung jawab</value>
+      <webElementGuid>193e4701-e319-4661-95d5-1ac9bb5b1104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-tns-c126-46 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>67e7944c-0e33-4b20-9a8b-05bdf326cb00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-2&quot;)/nz-modal-container[@class=&quot;ng-tns-c150-42 ng-trigger ng-trigger-modalContainer ant-modal-wrap ng-star-inserted&quot;]/div[@class=&quot;ant-modal ng-tns-c150-42&quot;]/div[@class=&quot;ant-modal-content ng-tns-c150-42&quot;]/div[@class=&quot;ant-modal-body ng-tns-c150-42&quot;]/form[@class=&quot;ant-form ant-form-vertical ng-star-inserted ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/nz-form-item[@class=&quot;ant-form-item ant-row&quot;]/nz-form-control[@class=&quot;ng-tns-c126-46 ant-form-item-control ant-col ng-star-inserted&quot;]/div[@class=&quot;ant-form-item-control-input ng-tns-c126-46&quot;]/div[@class=&quot;ant-form-item-control-input-content ng-tns-c126-46&quot;]/input[@class=&quot;ant-input ng-tns-c126-46 ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>31a3c28f-fa01-4969-802e-3f0ba6fd89b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-2']/nz-modal-container/div/div/div[2]/form/div/div[4]/nz-form-item/nz-form-control/div/div/input</value>
+      <webElementGuid>0b07af65-7a62-4020-b6b8-f5f77b8b5f81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/nz-form-item/nz-form-control/div/div/input</value>
+      <webElementGuid>866a7eab-fdff-4e1c-812d-e822e147316a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Masukkan alamat email penanggung jawab']</value>
+      <webElementGuid>343a9c9a-c7b8-4526-90eb-734114c46472</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

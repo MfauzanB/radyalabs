@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cancel</name>
+   <tag></tag>
+   <elementGuidId>a15b9877-f24e-437d-8a30-cfcd727f8819</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ng-tns-c172-29.ant-btn.ant-btn-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-3']/div/div/div[2]/div/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8913945a-0b8f-4326-9c7f-8fb213a392aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c172-29 ant-btn ant-btn-sm</value>
+      <webElementGuid>4ff821ff-9fef-41d4-a12e-9590f55b5ac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>a1d66480-ab49-40ca-9757-60cbba460663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-3&quot;)/div[@class=&quot;ant-popover ng-tns-c172-29 ng-trigger ng-trigger-zoomBigMotion ng-star-inserted null ant-popover-placement-left&quot;]/div[@class=&quot;ant-popover-content ng-tns-c172-29&quot;]/div[@class=&quot;ant-popover-inner ng-tns-c172-29&quot;]/div[@class=&quot;ng-tns-c172-29&quot;]/div[@class=&quot;ant-popover-inner-content ng-tns-c172-29&quot;]/div[@class=&quot;ant-popover-buttons ng-tns-c172-29&quot;]/button[@class=&quot;ng-tns-c172-29 ant-btn ant-btn-sm&quot;]</value>
+      <webElementGuid>66ea6842-ddad-4f53-abe3-9c12f9d52180</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-3']/div/div/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>185ff2b7-e1c1-4ce1-a21d-e4da83ef82ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda yakin akan menghapus data cabang ini?'])[1]/following::button[1]</value>
+      <webElementGuid>bf08bb61-be2d-4603-bd3e-e07c2aa8d8e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Role'])[2]/following::button[1]</value>
+      <webElementGuid>f4a02d34-3fce-403f-ae95-d312f1e16f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::button[1]</value>
+      <webElementGuid>25a8edee-a218-44d2-a374-d0eec9c5a04f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/button</value>
+      <webElementGuid>509f4ace-8a94-42cc-b8d2-f906bb60f365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>5ab3a5ca-704b-4d50-ab1c-06d7b981ce7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
